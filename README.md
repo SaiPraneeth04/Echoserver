@@ -54,8 +54,10 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 print(f"Received {data!r}")
 ```
 ## OUTPUT:
+![et1 1](https://github.com/SaiPraneeth04/Echoserver/assets/119390353/c1c0a092-9ead-45fe-bf51-413540a13c32)
 
-![WhatsApp Image 2024-02-28 at 16 27 10_6316afcb](https://github.com/chandrumathiyazhagan/Echoserver/assets/119393023/7680413a-0395-45d6-8588-4d44d95a1366)
+![et1](https://github.com/SaiPraneeth04/Echoserver/assets/119390353/56dc604f-62bd-4d6a-bb3d-f650642c6fcb)
+
 
 ## RESULT:
 The program is executed successfully
